@@ -1,0 +1,24 @@
+rules:
+- DOMAIN-SUFFIX,iplc.vip,Google
+- DOMAIN-SUFFIX,thirdislandchain.com,Google
+- RULE-SET,china,DIRECT
+- RULE-SET,youtube,Google
+- RULE-SET,google,Google
+- RULE-SET,google_earth,Google
+- RULE-SET,google_gemini,Google
+- RULE-SET,google_fcm,Google
+- RULE-SET,google_chromecast,Google
+- RULE-SET,youtube_music,Google
+- RULE-SET,github,Github
+- RULE-SET,netflix,Netflix
+- RULE-SET,tiktok,TikTok
+- RULE-SET,openai,OpenAI
+- RULE-SET,telegram,Telegram
+- RULE-SET,jetbrains,Google
+- RULE-SET,sublime_text,Google
+- RULE-SET,bing,Bing
+- RULE-SET,bing_copilot,Bing
+- RULE-SET,docker,Proxy
+- RULE-SET,global,Proxy
+- GEOIP,LAN,DIRECT
+- GEOIP,CN,DIRECT
