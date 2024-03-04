@@ -1,4 +1,5 @@
 rules:
+- DOMAIN-SUFFIX,mysub.cc,Google
 - DOMAIN-SUFFIX,iplc.vip,Google
 - DOMAIN-SUFFIX,thirdislandchain.com,Google
 - RULE-SET,china,DIRECT
