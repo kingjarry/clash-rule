@@ -20,6 +20,7 @@ rules:
 - RULE-SET,bing,Bing
 - RULE-SET,bing_copilot,Bing
 - RULE-SET,docker,Proxy
+- RULE-SET,twitter,Proxy
 - RULE-SET,global,Proxy
 - GEOIP,LAN,DIRECT
 - GEOIP,CN,DIRECT
