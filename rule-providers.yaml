@@ -119,3 +119,10 @@ rule-providers:
     path: ./ruleset/Twitter.yaml
     type: http
     url: https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@master/rule/Clash/Twitter/Twitter.yaml
+  google-bard:
+    behavior: classical
+    interval: 86400
+    path: ./ruleset/BardAI.yaml
+    type: http
+    url: https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@master/rule/Clash/BardAI/BardAI.yaml
+    
