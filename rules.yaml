@@ -1,4 +1,5 @@
 rules:
+- DOMAIN-KEYWORD,services.googleapis.cn,Google
 - DOMAIN-SUFFIX,mysub.cc,Google
 - DOMAIN-SUFFIX,iplc.vip,Google
 - DOMAIN-SUFFIX,thirdislandchain.com,Google
