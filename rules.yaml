@@ -4,6 +4,7 @@ rules:
 - DOMAIN-SUFFIX,iplc.vip,Google
 - DOMAIN-SUFFIX,thirdislandchain.com,Google
 - RULE-SET,china,DIRECT
+- RULE-SET,apple,Apple
 - RULE-SET,youtube,Google
 - RULE-SET,google,Google
 - RULE-SET,google-bard,Google
