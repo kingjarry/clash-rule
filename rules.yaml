@@ -23,6 +23,7 @@ rules:
 - RULE-SET,sublime_text,Google
 - RULE-SET,bing,Bing
 - RULE-SET,bing_copilot,Bing
+- RULE-SET,nintendo,日本|
 - RULE-SET,docker,Proxy
 - RULE-SET,twitter,Proxy
 - RULE-SET,global,Proxy
