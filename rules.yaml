@@ -28,5 +28,6 @@ rules:
 - RULE-SET,docker,Proxy
 - RULE-SET,twitter,Proxy
 - RULE-SET,global,Proxy
+- RULE-SET,steam,Proxy
 - GEOIP,LAN,DIRECT
 - GEOIP,CN,DIRECT
