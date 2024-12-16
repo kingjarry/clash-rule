@@ -18,6 +18,7 @@ rules:
 - RULE-SET,netflix,Netflix
 - RULE-SET,tiktok,TikTok
 - RULE-SET,openai,OpenAI
+- RULE-SET,claude,OpenAI
 - RULE-SET,telegram,Telegram
 - RULE-SET,jetbrains,Google
 - RULE-SET,sublime_text,Google
@@ -29,6 +30,5 @@ rules:
 - RULE-SET,twitter,Proxy
 - RULE-SET,global,Proxy
 - RULE-SET,steam,Proxy
-- RULE-SET,claude,OpenAI
 - GEOIP,LAN,DIRECT
 - GEOIP,CN,DIRECT
