@@ -1,4 +1,5 @@
 rules:
+- DOMAIN-SUFFIX,tampermonkey.net,Google
 - DOMAIN-SUFFIX,upyunso.com,DIRECT
 - DOMAIN-SUFFIX,services.googleapis.cn,Google
 - DOMAIN-SUFFIX,mysub.cc,Google
