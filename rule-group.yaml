@@ -1,0 +1,10 @@
+rule-group:
+  - TikTok: '新加坡|'
+  - OpenAI: '日本|'
+  - Google: '香港|'
+  - Github: '香港|'
+  - Netflix: '香港|'
+  - Telegram: '香港|'
+  - Bing: '香港|'
+  - Apple: 'DIRECT'
+  - Proxy: '香港|'
