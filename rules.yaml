@@ -31,6 +31,6 @@ rules:
 - RULE-SET,twitter,Proxy
 - RULE-SET,global,Proxy
 - RULE-SET,steam,Proxy
-- RULE-SET,okx,美国|
+- RULE-SET,okx,Okx
 - GEOIP,LAN,DIRECT
 - GEOIP,CN,DIRECT
