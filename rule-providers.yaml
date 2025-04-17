@@ -146,7 +146,7 @@ rule-providers:
   miui-privacy:
       behavior: classical
       interval: 86400
-      path: ./ruleset/XiaoMi.yaml
+      path: ./ruleset/MIUIPrivacy.yaml
       type: http
       url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/MIUIPrivacy/MIUIPrivacy.yaml
   steam:
