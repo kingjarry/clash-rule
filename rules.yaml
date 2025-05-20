@@ -11,7 +11,7 @@ rules:
 - RULE-SET,google,Google
 - RULE-SET,google-bard,Google
 - RULE-SET,google_earth,Google
-- RULE-SET,google_gemini,Google
+- RULE-SET,google_gemini,OpenAI
 - RULE-SET,google_fcm,Google
 - RULE-SET,google_chromecast,Google
 - RULE-SET,youtube_music,Google
