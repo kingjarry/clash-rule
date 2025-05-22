@@ -7,11 +7,11 @@ rules:
 - DOMAIN-SUFFIX,thirdislandchain.com,Google
 - RULE-SET,china,DIRECT
 - RULE-SET,apple,Apple
+- RULE-SET,google_gemini,OpenAI
 - RULE-SET,youtube,Google
 - RULE-SET,google,Google
 - RULE-SET,google-bard,Google
 - RULE-SET,google_earth,Google
-- RULE-SET,google_gemini,OpenAI
 - RULE-SET,google_fcm,Google
 - RULE-SET,google_chromecast,Google
 - RULE-SET,youtube_music,Google
