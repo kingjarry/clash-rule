@@ -6,6 +6,10 @@ rules:
 - DOMAIN-SUFFIX,iplc.vip,Google
 - DOMAIN-SUFFIX,thirdislandchain.com,Google
 - RULE-SET,china,DIRECT
+- RULE-SET,xiaomi,DIRECT
+- RULE-SET,miui-privacy,DIRECT
+- RULE-SET,bing_copilot,Bing
+- RULE-SET,bing,Bing
 - RULE-SET,apple,Apple
 - RULE-SET,google_gemini,OpenAI
 - RULE-SET,youtube,Google
@@ -23,15 +27,11 @@ rules:
 - RULE-SET,telegram,Telegram
 - RULE-SET,jetbrains,Google
 - RULE-SET,sublime_text,Google
-- RULE-SET,bing,Bing
-- RULE-SET,xiaomi,DIRECT
-- RULE-SET,miui-privacy,DIRECT
-- RULE-SET,bing_copilot,Bing
 - RULE-SET,nintendo,日本|
 - RULE-SET,docker,Proxy
 - RULE-SET,twitter,Proxy
-- RULE-SET,global,Proxy
 - RULE-SET,steam,Proxy
 - RULE-SET,okx,Okx
+- RULE-SET,global,Proxy
 - GEOIP,LAN,DIRECT
 - GEOIP,CN,DIRECT
