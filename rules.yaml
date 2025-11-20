@@ -5,7 +5,7 @@ rules:
 - DOMAIN-SUFFIX,mysub.cc,Google
 - DOMAIN-SUFFIX,iplc.vip,Google
 - DOMAIN-SUFFIX,thirdislandchain.com,Google
-- DOMAIN-KEYWORD,supabase,Supabase
+- DOMAIN-KEYWORD,supabase,新加坡|
 - RULE-SET,china,DIRECT
 - RULE-SET,xiaomi,DIRECT
 - RULE-SET,miui-privacy,DIRECT
