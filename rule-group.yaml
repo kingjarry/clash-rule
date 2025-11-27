@@ -8,4 +8,4 @@ rule-group:
   Bing: '美国|'
   Apple: 'DIRECT'
   Proxy: '香港|'
-  Okx: '美国|'
+  Okx: 'DIRECT'
